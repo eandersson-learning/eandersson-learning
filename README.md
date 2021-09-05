@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eric. This is my learning Github.
+- 👋 Hi, I’m Eric. This is my learning Github. Most of the repos are from The Odin Project or Jetbrains Academy.
 - 👀 I’m interested in learning web development. Oh and rabbits.
 - 🌱 I’m currently learning a little bit of everything. 
 - 💞️ I’m looking to collaborate on... stuff...
